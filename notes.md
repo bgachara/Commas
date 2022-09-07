@@ -10,6 +10,7 @@ c) Brought by who.
 
 The report should be 
 a) Combination of same materials delivered of various dates & respective cost.
+B
 b) Stock available at a particular date-
 c) Vat only 
 d) Total material cost 
@@ -59,6 +60,7 @@ Direct costs = Sub-contract + Self-Performance
 2. Self-Performance
 
 - Labour
+B
 - Materials
 - Plant
 
@@ -70,6 +72,7 @@ Indirect costs
 - Tower/Cranes
 - Security
 - Vehicles
+B
 
 2. Overheads
 
