@@ -13,9 +13,10 @@ const navigation = [
   { name: "Home", href: "#", current: true },
   { name: "Operations", href: "#", current: false },
   { name: "Projects", href: "#", current: false },
-  { name: "Settings", href: "#", current: false },
   { name: "Reports", href: "#", current: false },
+  { name: "Settings", href: "#", current: false },
   { name: "Analytics", href: "#", current: false },
+  { name: "Overview", href: "#", current: false },
 ];
 const userNavigation = [
   { name: "Your Profile", href: "#" },
@@ -39,7 +40,7 @@ export default function Example() {
         ```
       */}
       <div className="min-h-full">
-        <Disclosure as="nav" className="bg-gray-800">
+        <Disclosure as="nav" className="bg-gray-500">
           {({ open }) => (
             <>
               <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

@@ -1,6 +1,11 @@
 # CONSTRUCTION 1000
 
 ## Initial draft
+Details
+
+Stock acquisition/purchases/delivery
+Stock dispatch/usage
+Non stock expenses
 
 1.Material coming in;
 
@@ -10,7 +15,6 @@ c) Brought by who.
 
 The report should be 
 a) Combination of same materials delivered of various dates & respective cost.
-B
 b) Stock available at a particular date-
 c) Vat only 
 d) Total material cost 
@@ -34,6 +38,11 @@ Represented in my tech stack?
 
 Data modelling on two levels: application (programming language) / database.
 
+The different endpoints and their HTTP methods
+The request parameters for each endpoints
+What data and status codes are returned by every endpoint.
+
+Deal with overfetching and underfetching data.
 
 Workflow:
 
@@ -44,6 +53,20 @@ Workflow:
 - Authentication.
 
 ## Revised Draft
+
+BoQ - Is a document prepared by a cost estimator to calculate the exact costing of project work by multiplying item work by their rate.
+Most important document for tendering and contracting.
+It also provides a basis for valuation of variance.
+
+Schedule of Rate (SoR) - list of various rates for unit item of work.
+It consists of a group items: excavation items, concrete, masonry, demolition, plumbing, electrification items.
+The rate of ifnished item is worked out by analysis of the rate with the standard requirements of materials, labor, equipment, and necessary sundries like water charges, contactor's profit...etc
+
+
+Types:
+Bill of materials - only material costing is estimated from quantity and unit rate.
+Bill of Labor - only labour costing.
+
 
 Sample BoQ: Unit/Quantity
 
